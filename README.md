@@ -30,5 +30,3 @@ npm run dev
 ```
 
 -----------
-
-@0xJonaseb11
